@@ -1,0 +1,3 @@
+[submodule "child-repository-test"]
+	path = child-repository-test
+	url = https://github.com/spadecompany-lee/child-repository-test
